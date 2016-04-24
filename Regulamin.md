@@ -5,7 +5,7 @@
 
 ### § 1. Podstawa działalności
 
-Koło Naukowe Informatyków, zwane dalej Kołem, działa na podstawie Statutu Akademii Podlaskiej w Siedlcach, zwanej dalej Uczelnią oraz na podstawie Ustawy o Szkolnictwie Wyższym z dnia 12 września 1990 roku (Dz.U. Nr.65 poz.385, z póź. zm), a także postanowień niniejszego Regulaminu.
+Koło Naukowe Informatyków, zwane dalej Kołem, działa na podstawie Statutu Uniwersytetu Przyrodniczo – Humanistycznego w Siedlcach, zwanej dalej Uczelnią oraz na podstawie Ustawy o Szkolnictwie Wyższym z dnia 12 września 1990 roku (Dz.U. Nr.65 poz.385, z póź. zm), a także postanowień niniejszego Regulaminu.
 
 ### § 2. Nazwa
 
@@ -13,7 +13,7 @@ Pełna nazwa Koła brzmi Koło Naukowe Informatyków "GENBIT". Przyjętym i akce
 
 ### § 3. Siedziba i teren działalności
 
-Siedzibą Koła jest Instytut Informatyki na Wydziale Nauk Ścisłych Akademii Podlaskiej w Siedlcach, 08-110 Siedlce, ul. Sienkiewicza 51.
+Siedzibą Koła jest Instytut Informatyki na Wydziale Nauk Ścisłych Uniwersytetu Przyrodniczo – Humanistycznego w Siedlcach, 08-110 Siedlce, ul. Sienkiewicza 51.
 
 ### § 4. Status organizacyjny
 
